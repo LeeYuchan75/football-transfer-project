@@ -37,6 +37,12 @@ This dataset was obtained from Kaggle. To make the project more engaging, additi
 
 ### career_sample.csv
 
+- `Player_ID` : Unique identifier for each player  
+- `national_caps` : Number of appearances for the national team  
+- `league_titles` : Number of league titles won  
+- `ucl_titles` : Number of UEFA Champions League titles won  
+- `season_awards` : Number of awards received in the season  
+- `starter_ratio` : Ratio of matches started compared to total matches played  
 
 
 
