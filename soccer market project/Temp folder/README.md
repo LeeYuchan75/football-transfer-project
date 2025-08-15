@@ -1,5 +1,7 @@
 ### football_market_sample.csv 
 
+This dataset was obtained from Kaggle. To make the project more engaging, additional columns such as Shots_Per_Game and Tackles_Per_Game were generated using AI.
+
 - `Player_ID` : Unique identifier for each player  
 - `Player_Name` : Player’s full name  
 - `Age` : Player’s age  
