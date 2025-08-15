@@ -22,3 +22,11 @@ This dataset was obtained from Kaggle. To make the project more engaging, additi
 - `Pass_Accuracy_Percentage` : Pass accuracy (%)  
 - `Saves_Per_Game` : Average saves per game (mainly for goalkeepers)
 - ...and other features.
+
+<br/> 
+
+### player_injury_sample.cav
+
+
+
+
