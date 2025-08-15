@@ -8,7 +8,7 @@
 - `League` : 소속 리그명  
 - `Appearances` : 시즌 출전 경기 수  
 - `Goals` : 시즌 득점 수  
-- `Market_Value_Million_EUR` : 현재 시장 가치 (백만 유로 단위)  
+- `Market_Value_Million_EUR` : 현재 시장 '가치' (백만 유로 단위)  
 - `Transfer_Fee_Million_EUR` : 이적료 (백만 유로 단위)  
 - `Shots_Per_Game` : 경기당 평균 슈팅 수  
 - `Dribbles_Per_Game` : 경기당 평균 드리블 수  
