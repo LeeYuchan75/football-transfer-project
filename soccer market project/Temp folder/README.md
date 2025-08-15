@@ -27,6 +27,16 @@ This dataset was obtained from Kaggle. To make the project more engaging, additi
 
 ### player_injury_sample.cav
 
+- `Player_ID` : Unique identifier for each player  
+- `Injury_Type` : Type of injury sustained by the player  
+- `Injury_Duration` : Duration of the injury  
+- `Injury_Date` : Date when the injury occurred  
+- `Games_Missed` : Number of games missed due to the injury
+
+<br/>
+
+### career_sample.csv
+
 
 
 
