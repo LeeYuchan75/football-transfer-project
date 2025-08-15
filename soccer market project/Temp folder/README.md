@@ -1,20 +1,21 @@
+### football_market_sample.csv 
 
-- `Player_ID` : 각 선수를 식별하는 고유 ID  
-- `Player_Name` : 선수의 전체 이름  
-- `Age` : 선수의 나이  
-- `Nationality` : 선수의 국적  
-- `Position` : 선수의 주 포지션  
-- `Current_Club` : 현재 소속 클럽  
-- `League` : 소속 리그명  
-- `Appearances` : 시즌 출전 경기 수  
-- `Goals` : 시즌 득점 수  
-- `Market_Value_Million_EUR` : 현재 시장 가치 (백만 유로 단위)  
-- `Transfer_Fee_Million_EUR` : 이적료 (백만 유로 단위)  
-- `Shots_Per_Game` : 경기당 평균 슈팅 수  
-- `Dribbles_Per_Game` : 경기당 평균 드리블 수  
-- `Key_Passes_Per_Game` : 경기당 평균 결정적 패스 수  
-- `Tackles_Per_Game` : 경기당 평균 태클 수  
-- `Interceptions_Per_Game` : 경기당 평균 인터셉트 수  
-- `Clearances_Per_Game` : 경기당 평균 클리어링 수  
-- `Pass_Accuracy_Percentage` : 패스 성공률 (%)  
-- `Saves_Per_Game` : 경기당 평균 세이브 수 (주로 GK)  
+- `Player_ID` : Unique identifier for each player  
+- `Player_Name` : Player’s full name  
+- `Age` : Player’s age  
+- `Nationality` : Player’s nationality  
+- `Position` : Player’s primary position  
+- `Current_Club` : Current club  
+- `League` : Name of the league  
+- `Appearances` : Number of appearances in the season  
+- `Goals` : Number of goals in the season  
+- `Market_Value_Million_EUR` : Current market value (in million EUR)  
+- `Transfer_Fee_Million_EUR` : Transfer fee (in million EUR)  
+- `Shots_Per_Game` : Average shots per game  
+- `Dribbles_Per_Game` : Average dribbles per game  
+- `Key_Passes_Per_Game` : Average key passes per game  
+- `Tackles_Per_Game` : Average tackles per game  
+- `Interceptions_Per_Game` : Average interceptions per game  
+- `Clearances_Per_Game` : Average clearances per game  
+- `Pass_Accuracy_Percentage` : Pass accuracy (%)  
+- `Saves_Per_Game` : Average saves per game (mainly for goalkeepers)
