@@ -6,6 +6,12 @@ I developed this project after gaining interest in the football transfer market 
 
 ### 💻 Dataset Information
 
+- `football_market_sample.csv` : Player market and transfer data  
+
+- `player_injury_sample.csv` : Player injury history data  
+
+- `career_sample.csv` : Player career achievements data  
+
 [Temp folder](soccer%20market%20project/Temp%20folder)
 
 <br/>
