@@ -51,7 +51,7 @@ Each file has a specific role in preparing the data for modeling.
 ---
 
 
-### 📌 Summary
+### 📝 Summary
 - Extracted date features and handled missing values consistently  
 - Engineered new features from career and injury datasets  
 - Applied one-hot encoding for categorical variables  
