@@ -14,4 +14,6 @@ I developed this project after gaining interest in the football transfer market 
 
 - Visualized the distribution of numerical features using histograms
   
-- Performed basic data inspection (NaN values, duplicates, statistics) 
+- Performed basic data inspection (NaN values, duplicates, statistics)
+
+👉 [See visualization details](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/visualization/visualization_class.py)
