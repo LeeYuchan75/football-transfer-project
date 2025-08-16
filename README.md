@@ -12,7 +12,7 @@ I developed this project after gaining interest in the football transfer market 
 
 - `career_sample.csv` : Player career achievements data  
 
-[Temp folder](soccer%20market%20project/Temp%20folder)
+👉 [See full details](soccer%20market%20project/Temp%20folder)
 
 <br/>
 
