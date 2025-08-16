@@ -41,6 +41,8 @@ This dataset was obtained from Kaggle. To make the project more engaging, additi
 
 ### career_sample.csv
 
+[career_sample.csv](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/Temp%20folder/career_sample.csv)
+
 - `Player_ID` : Unique identifier for each player  
 - `national_caps` : Number of appearances for the national team  
 - `league_titles` : Number of league titles won  
