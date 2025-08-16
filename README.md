@@ -34,4 +34,6 @@ I developed this project after gaining interest in the football transfer market 
 
 - Implemented modeling with XGBoost and LightGBM
 
+👉 [See full preprocessing details](https://github.com/LeeYuchan75/football-transfer-project/tree/main/soccer%20market%20project/Data%20preprocessing)
+
 <br/>
