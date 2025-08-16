@@ -16,16 +16,6 @@ I developed this project after gaining interest in the football transfer market 
 
 <br/>
 
-### 📊 Visualization
-
-- Visualized the distribution of numerical features using histograms
-  
-- Performed basic data inspection (NaN values, duplicates, statistics)
-
-👉 [See visualization details](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/visualization/visualization_class.py)
-
-<br/>
-
 ### 🔧 Data Preprocessing
 
 - Extracted contract dates, handled missing values, and engineered features from career and injury data  
@@ -37,3 +27,15 @@ I developed this project after gaining interest in the football transfer market 
 👉 [See full preprocessing details](https://github.com/LeeYuchan75/football-transfer-project/tree/main/soccer%20market%20project/Data%20preprocessing)
 
 <br/>
+
+### 📊 Visualization
+
+- Visualized the distribution of numerical features using histograms
+  
+- Performed basic data inspection (NaN values, duplicates, statistics)
+
+👉 [See visualization details](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/visualization/visualization_class.py)
+
+<br/>
+
+
