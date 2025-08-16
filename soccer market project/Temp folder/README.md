@@ -29,6 +29,8 @@ This dataset was obtained from Kaggle. To make the project more engaging, additi
 
 ### player_injury_sample.cav
 
+[player_injury_sample.csv](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/Temp%20folder/player_injury_sample.csv)
+
 - `Player_ID` : Unique identifier for each player  
 - `Injury_Type` : Type of injury sustained by the player  
 - `Injury_Duration` : Duration of the injury  
