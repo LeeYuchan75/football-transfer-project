@@ -7,3 +7,11 @@ I developed this project after gaining interest in the football transfer market 
 ### 💻 Dataset Information
 
 [Temp folder](soccer%20market%20project/Temp%20folder)
+
+<br/>
+
+### 📊 Visualization
+
+- Visualized the distribution of numerical features using histograms
+  
+- Performed basic data inspection (NaN values, duplicates, statistics) 
