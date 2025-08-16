@@ -23,3 +23,15 @@ I developed this project after gaining interest in the football transfer market 
 - Performed basic data inspection (NaN values, duplicates, statistics)
 
 👉 [See visualization details](https://github.com/LeeYuchan75/football-transfer-project/blob/main/soccer%20market%20project/visualization/visualization_class.py)
+
+<br/>
+
+### 🔧 Data Preprocessing
+
+- Extracted contract dates, handled missing values, and engineered features from career and injury data  
+
+- Applied one-hot encoding to categorical variables for consistency across train/test sets  
+
+- Implemented modeling with XGBoost and LightGBM
+
+<br/>
